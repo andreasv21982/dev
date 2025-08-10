@@ -6,7 +6,7 @@ Dezvoltator Minecraft ┃ Dezvoltator Discord ┃ Dezvoltator Roblox ┃ Editor 
 
 ㅤㅤㅤ       ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🖥️ Vezi portofoliul meu pe [GitHub](https://github.com/andreasv21982/dev)
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ✉️ [CONTACT DIRECT] DISCORD: __andreasv2.1982__
+ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ✉️ [CONTACT DIRECT] DISCORD: __andreasv2.1982__
 
 ㅤㅤㅤㅤ     🚀 Momentan lucrez la: __Creearea serverelor de Minecraft__
 
