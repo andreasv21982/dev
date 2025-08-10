@@ -41,7 +41,20 @@
 
 ---
 
+---
+
 ### 🔗 Socials
-<a href="https://www.github.com/andreasv21982/dev"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/andreasv21982" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="GitHub Profile" width="40" style="border-radius:50%;">
+  </a>
+  
+  <!-- Discord -->
+  <a href="https://discord.com/users/andreasv2.1982" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" width="40">
+  </a>
+</p>
+
 
 </div>
