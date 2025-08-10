@@ -46,13 +46,17 @@
 ### 🔗 Socials
 <p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/andreasv21982" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="GitHub Profile" width="40" style="border-radius:50%;">
+  <a href="https://www.github.com/andreasv21982/dev" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" alt="GitHub" title="GitHub" />
+    </picture>
   </a>
-  
+
   <!-- Discord -->
-  <a href="https://discord.com/users/andreasv2.1982" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" alt="Discord" width="40">
+  <a href="https://discord.com/users/andreasv2.1982" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" alt="Discord" title="Discord: andreasv2.1982" />
   </a>
 </p>
 
