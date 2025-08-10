@@ -41,8 +41,6 @@
 
 ---
 
----
-
 ### 🔗 Socials
 <p align="center">
   <!-- GitHub -->
