@@ -57,8 +57,7 @@
 
 ---
 
-<img src="[[f45ed5b7-f8aa-4cd0-9768-1d03e864b8d5.png](https://media.discordapp.net/attachments/1386072622248362015/1398326419075104839/image.png?ex=689963b5&is=68981235&hm=082a8fbacc432a2864200c5dec9e8297c3b115c6ca6c2e391574d165a583639e&=&format=webp&quality=lossless&width=926&height=885)](https://raw.githubusercontent.com/USERNAME/REPO/main/assets/andreas-dev.png
-)" alt="Andreas Development" width="300"/>
+<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/andreas-dev.png" alt="Andreas Development" width="300">
 <img src="96c99f22-488d-493d-a776-6d50b05bbe05.png" alt="Top Languages" width="300"/>
 
 </div>
