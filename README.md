@@ -1,4 +1,5 @@
 Salut, numele meu este __Andreas__ 
+
 Dezvoltator Minecraft ┃ Dezvoltator Discord ┃ Dezvoltator Roblox ┃ Editor foto ┃ Dezvoltator web
 
 🌍 Lucrez la Andreas Development
