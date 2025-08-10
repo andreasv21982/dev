@@ -4,7 +4,7 @@ Dezvoltator Minecraft ┃ Dezvoltator Discord ┃ Dezvoltator Roblox ┃ Editor 
 
 ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌍 Lucrez la Andreas Development
 
-ㅤㅤㅤ                    🖥️ Vezi portofoliul meu pe [GitHub](https://github.com/andreasv21982/dev)
+ㅤㅤㅤ       ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🖥️ Vezi portofoliul meu pe [GitHub](https://github.com/andreasv21982/dev)
 
 ㅤㅤㅤㅤㅤㅤㅤㅤ✉️ [CONTACT DIRECT] DISCORD: __andreasv2.1982__
 
