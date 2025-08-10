@@ -1,10 +1,15 @@
 <div align="center">
 
+
+### 👋 Salut, numele meu este __**Andreas**__!
+
+**Developer Minecraft** ┃ **Developer Discord** ┃ **Developer Roblox** 
+
+**Editor Photo** ┃ **Developer web**  
+
+
 ---
-
-## 👋 Salut, numele meu este **Andreas**  
-
-💻 **Dezvoltator Minecraft** ┃ **Dezvoltator Discord** ┃ **Dezvoltator Roblox** ┃ **Editor foto** ┃ **Dezvoltator web**  
+### [🔔] Informatii
 
 🌍 **Lucrez la Andreas Development**  
 
@@ -20,9 +25,11 @@
 
 ⚡ **[INFORMARE]** Răspund în 24-48 ore pe Discord  
 
+
+
 ---
 
-### 🛠️ Skill-uri
+### [🛠️] Skill-uri
 <p>
 <a href="https://www.oracle.com/java/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" /></a>
@@ -38,7 +45,7 @@
 
 ---
 
-### 🔗 Socials
+### [🔗] Socials
 <p align="center">
   <!-- GitHub -->
   <a href="https://www.github.com/andreasv21982/dev" target="_blank" rel="noreferrer">
@@ -57,7 +64,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/andreas-dev.png" alt="Andreas Development" width="300">
+<img width="335" height="325" alt="Image" src="https://github.com/user-attachments/assets/a7b83716-7461-48e5-a9ca-f6f8357cb6c7" />
 <img width="300" height="325" alt="Image" src="https://github.com/user-attachments/assets/9121f647-b909-4a9d-9174-5ab488480d62" />
 
 </div>
