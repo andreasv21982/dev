@@ -2,19 +2,24 @@
 
 Dezvoltator Minecraft ┃ Dezvoltator Discord ┃ Dezvoltator Roblox ┃ Editor foto ┃ Dezvoltator web
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ🌍 Lucrez la Andreas Development
+<div align="center">
 
-ㅤㅤㅤ       ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ 🖥️ Vezi portofoliul meu pe [GitHub](https://github.com/andreasv21982/dev)
+🌍 **Lucrez la Andreas Development**  
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ    ㅤㅤ     ✉️ [CONTACT DIRECT] DISCORD: __andreasv2.1982__
+🖥️ **Vezi portofoliul meu pe GitHub**  
 
-ㅤㅤㅤㅤ     🚀 Momentan lucrez la: __Creearea serverelor de Minecraft__
+✉️ **[CONTACT DIRECT]** DISCORD: `andreasv2.1982`  
 
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤ           🧠 Învat __Python__
+🚀 **Momentan lucrez la:** Creearea serverelor de Minecraft  
 
-ㅤㅤㅤㅤㅤㅤ ㅤ🤝 Sunt deschis să colaborez la __Proiecte Interesante__
+🧠 **Învăț Python**  
 
-ㅤㅤㅤㅤㅤㅤㅤㅤ ⚡ [INFORMARE] Raspund in 24-48 ore pe discord.
+🤝 **Sunt deschis să colaborez la Proiecte Interesante**  
+
+⚡ **[INFORMARE]** Răspund în 24-48 ore pe Discord  
+
+</div>
+
 
 
 <p align="left">
