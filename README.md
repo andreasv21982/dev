@@ -58,6 +58,6 @@
 ---
 
 <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/andreas-dev.png" alt="Andreas Development" width="300">
-<img src="96c99f22-488d-493d-a776-6d50b05bbe05.png" alt="Top Languages" width="300"/>
+<img width="300" height="325" alt="Image" src="https://github.com/user-attachments/assets/9121f647-b909-4a9d-9174-5ab488480d62" />
 
 </div>
