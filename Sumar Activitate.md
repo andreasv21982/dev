@@ -1,4 +1,8 @@
-# 🧩 Sumar Activitate – Developer Minecraft
+<div align="center">
+
+# 🧩 Sumar Activitate
+
+</div>
 
 > **Experiență:** 5+ ani în dezvoltare Minecraft & Discord (Developer / Tehnic / Staff)
 
@@ -13,6 +17,16 @@
 
 ---
 
+## ℹ️ Informații utile
+
+Acest document este structurat pentru navigare rapidă pe fila **Sumar Activitate**.
+
+➡️ **Cum îl folosești:**
+
+* Apasă pe orice secțiune din fila **Cuprins** pentru a ajunge direct la categoria dorită.
+* La finalul fiecărei secțiuni vei găsi butonul **„Înapoi la cuprins”**, care te readuce instant la **Cuprins**.
+---
+
 ## ⚡ Prezentare generală
 
 | Categorie         | Detalii                                                  |
@@ -20,7 +34,6 @@
 | Roluri            | Developer, Dev Principal, Tehnic, Trial-Developer, Staff |
 | Platforme         | Minecraft, Discord, Roblox                               |
 | Experiență totală | 5+ ani                                                   |
-| Comunități mari   | GAMSTER (1500–1900), MC.RAYED.RO                         |
 
 ⬆️ [Înapoi la cuprins](#-cuprins)
 
@@ -28,7 +41,7 @@
 
 ## 🧱 Experiență pe comunități
 
-### Comunitate (nume necunoscut)
+### Nume: N/A
 
 | Câmp                 | Detalii          |
 | -------------------- | ---------------- |
@@ -39,7 +52,7 @@
 
 ---
 
-### APOCALIPTIC
+### Nume: APOCALIPTIC
 
 | Câmp            | Detalii             |
 | --------------- | ------------------- |
@@ -50,7 +63,7 @@
 
 ---
 
-### TIKTOPIA
+### Nume: TIKTOPIA
 
 | Câmp            | Detalii             |
 | --------------- | ------------------- |
@@ -61,7 +74,7 @@
 
 ---
 
-### ORIGINAL.GG
+### Nume: ORIGINAL.GG
 
 | Câmp            | Detalii                 |
 | --------------- | ----------------------- |
@@ -71,7 +84,7 @@
 
 ---
 
-### ENDERLAND
+### Nume: ENDERLAND
 
 | Câmp            | Detalii              |
 | --------------- | -------------------- |
@@ -82,7 +95,7 @@
 
 ---
 
-### THE FIRED
+### Nume: THE FIRED
 
 | Câmp            | Detalii             |
 | --------------- | ------------------- |
@@ -93,7 +106,7 @@
 
 ---
 
-### MINECRAFT ROMANIA200
+### Nume: MINECRAFT ROMANIA200
 
 | Câmp            | Detalii             |
 | --------------- | ------------------- |
@@ -104,7 +117,7 @@
 
 ---
 
-### ATRIX-MC → ATOM.MC
+### Nume: ATRIX-MC → ATOM.MC
 
 | Câmp            | Detalii           |
 | --------------- | ----------------- |
@@ -115,7 +128,7 @@
 
 ---
 
-### TYTAN-ROMANIA
+### Nume: TYTAN-ROMANIA
 
 | Câmp            | Detalii                         |
 | --------------- | ------------------------------- |
@@ -126,7 +139,7 @@
 
 ---
 
-### SHADOW-ROMANIA
+### Nume: SHADOW-ROMANIA
 
 | Câmp            | Detalii             |
 | --------------- | ------------------- |
@@ -137,7 +150,7 @@
 
 ---
 
-### GAMSTER
+### Nume: GAMSTER
 
 | Câmp            | Detalii                       |
 | --------------- | ----------------------------- |
@@ -149,7 +162,7 @@
 
 ---
 
-### MC.RAYED.RO
+### Nume: MC.RAYED.RO
 
 | Câmp            | Detalii                       |
 | --------------- | ----------------------------- |
@@ -161,7 +174,7 @@
 
 ---
 
-### ANDRISORII (YouTuber Server)
+### Nume: ANDRISORII (YouTuber Server)
 
 | Câmp            | Detalii              |
 | --------------- | -------------------- |
@@ -177,7 +190,7 @@
 ## 🤖 Developer Discord
 
 **Proiecte:**
-THE FIRED · ROMANIA ROLEPLAY #CZR (Roblox) · B.S.I.J. ROMANIA ROLEPLAY #CZR · TIKTOPIA · TYTAN ROMANIA · MINECRAFT ROMANIA200 · ENDER LAND
+THE FIRED · ROMANIA ROLEPLAY #CZR (Roblox) · B.S.I.J. ROMANIA ROLEPLAY #CZR · TIKTOPIA · TYTAN ROMANIA · MINECRAFT ROMANIA200 · ENDER LAND · Factiunile din cadrul **Romania Roleplay #Marv** v6/v7.
 
 ⬆️ [Înapoi la cuprins](#-cuprins)
 
@@ -192,4 +205,4 @@ Motivul real al retragerii a fost, de cele mai multe ori, **management defectuos
 
 ---
 
-📎 *Document optimizat pentru GitHub README – navigare internă + lizibilitate maximă.*
+📎 *Multumesc pentru timpul acordat!*
