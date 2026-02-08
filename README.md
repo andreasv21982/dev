@@ -11,7 +11,7 @@
 ---
 ### [🔔] Informatii
 
-🌍 **Lucrez la Andreas Development**  
+🌍 **Andreas Development**  
 
 🖥️ **Vezi portofoliul meu pe [GitHub](https://github.com/andreasv21982/dev)**  
 
