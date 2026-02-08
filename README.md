@@ -33,6 +33,8 @@
 
 🤝 **Sunt deschis să colaborez la Proiecte Interesante**  
 
+---
+
 ⚡ **[INFORMARE]** Răspund în 24-48 ore pe Discord  
 
 
