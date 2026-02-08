@@ -30,7 +30,7 @@ Portofoliul conține configurări precise de pluginuri, fișiere de server optim
 
 ## 📄 Vezi portofoliul complet
 
-[📌 Deschide portofoliul meu](https://docs.google.com/document/d/1r8tK2a83p_p7pvlvedcts71rQV_BAEWsUasDF_BIgvE/edit?tab=t.0#heading=h.fz98shvtscra)  
+[📌 Deschide portofoliul meu](https://docs.google.com/document/d/1r8tK2a83p_p7pvlvedcts71rQV_BAEWsUasDF_BIgvE/edit?usp=sharing)  
 
 > Linkul deschide fișierul în modul vizualizare. Poți naviga prin toate configurările, sistemele și proiectele prezentate.
 
