@@ -4,23 +4,25 @@
 
 ---
 
-## 📌 Conținut
+## 📌 Cuprins
 
-* [Prezentare rapidă](#prezentare-rapidă)
-* [Experiență pe comunități](#experiență-pe-comunități)
-* [Developer Discord](#developer-discord)
-* [Mențiune importantă](#mențiune-importantă)
+* [⚡ Prezentare generală](#-prezentare-generală)
+* [🧱 Experiență pe comunități](#-experiență-pe-comunități)
+* [🤖 Developer Discord](#-developer-discord)
+* [ℹ️ Mențiune importantă](#ℹ️-mențiune-importantă)
 
 ---
 
-## ⚡ Prezentare rapidă
+## ⚡ Prezentare generală
 
-| Domeniu           | Detalii                                                  |
+| Categorie         | Detalii                                                  |
 | ----------------- | -------------------------------------------------------- |
 | Roluri            | Developer, Dev Principal, Tehnic, Trial-Developer, Staff |
 | Platforme         | Minecraft, Discord, Roblox                               |
 | Experiență totală | 5+ ani                                                   |
 | Comunități mari   | GAMSTER (1500–1900), MC.RAYED.RO                         |
+
+⬆️ [Înapoi la cuprins](#-cuprins)
 
 ---
 
@@ -168,18 +170,26 @@
 | Experiență      | 5 ani și jumătate    |
 | Rol             | Tehnic               |
 
+⬆️ [Înapoi la cuprins](#-cuprins)
+
 ---
 
 ## 🤖 Developer Discord
 
-**Proiecte:** THE FIRED, ROMANIA ROLEPLAY #CZR (Roblox), B.S.I.J. ROMANIA ROLEPLAY #CZR, TIKTOPIA, TYTAN ROMANIA, MINECRAFT ROMANIA200, ENDER LAND .
+**Proiecte:**
+THE FIRED · ROMANIA ROLEPLAY #CZR (Roblox) · B.S.I.J. ROMANIA ROLEPLAY #CZR · TIKTOPIA · TYTAN ROMANIA · MINECRAFT ROMANIA200 · ENDER LAND
+
+⬆️ [Înapoi la cuprins](#-cuprins)
 
 ---
 
 ## ℹ️ Mențiune importantă
 
-În unele cazuri apare mențiunea *„lipsă jucători / retragere”*. Motivul real al retragerii a fost, de cele mai multe ori, **managementul defectuos al comunităților**, lipsa de organizare sau decizii care au făcut imposibilă dezvoltarea sănătoasă a proiectelor.
+În unele cazuri apare mențiunea *„lipsă jucători / retragere”*.
+Motivul real al retragerii a fost, de cele mai multe ori, **management defectuos al comunităților**, lipsă de organizare sau decizii care au făcut imposibilă dezvoltarea sănătoasă a proiectelor.
+
+⬆️ [Înapoi la cuprins](#-cuprins)
 
 ---
 
-📎 *Format optimizat pentru GitHub README (tabele + navigare clară).*
+📎 *Document optimizat pentru GitHub README – navigare internă + lizibilitate maximă.*
