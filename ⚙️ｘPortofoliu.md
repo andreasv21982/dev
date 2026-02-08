@@ -1,4 +1,4 @@
-# Portofoliu Minecraft Developer / Tech
+# Portofoliu
 
 Bine ai venit în portofoliul meu! Acest fișier prezintă experiența, competențele și proiectele mele ca **Minecraft Developer / Tech**, cu focus pe sisteme proprii dezvoltate, pluginuri configurate și optimizări tehnice.
 
