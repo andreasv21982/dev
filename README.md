@@ -76,7 +76,10 @@
 
 ---
 
+### [🔗] Informatii Aditionale
+
 <img width="335" height="325" alt="Image" src="https://github.com/user-attachments/assets/a7b83716-7461-48e5-a9ca-f6f8357cb6c7" />
 <img width="300" height="325" alt="Image" src="https://github.com/user-attachments/assets/9121f647-b909-4a9d-9174-5ab488480d62" />
 
+---
 </div>
