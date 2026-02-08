@@ -19,7 +19,9 @@
 
 🚀 **Momentan lucrez la:**
 👉 Creearea serverelor de Minecraft
+
 👉 Creearea serverelor de Discord
+
 👉 Creearea botilor personalizati pentru Discord
 
 🧠 **Învăț Python**  
