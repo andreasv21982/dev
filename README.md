@@ -17,7 +17,10 @@
 
 ✉️ **[CONTACT DIRECT]** DISCORD: `andreasv2.1982`  
 
-🚀 **Momentan lucrez la:** Creearea serverelor de Minecraft  
+🚀 **Momentan lucrez la:**
+👉 Creearea serverelor de Minecraft
+👉 Creearea serverelor de Discord
+👉 Creearea botilor personalizati pentru Discord
 
 🧠 **Învăț Python**  
 
