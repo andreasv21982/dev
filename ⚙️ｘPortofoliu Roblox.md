@@ -24,6 +24,12 @@ Creez meniuri moderne care nu doar arată bine, dar sunt și complet funcțional
 > ![Meniu Principal](https://media.discordapp.net/attachments/1208560272524976138/1481968508333195366/image.png?ex=69b53e3a&is=69b3ecba&hm=c21489c6f2c9b68adddbe781681093a10e67e705dfac412aa7b94fe98a80a82b&=&format=webp&quality=lossless&width=911&height=447)
 
 > ![Meniu Principal](https://media.discordapp.net/attachments/1467512238322749645/1481970429756313652/image.png?ex=69b54004&is=69b3ee84&hm=29f0153e49d76edd5be41dd321b87d867c1998c2ec6825ddac0ed41c2a6e939b&=&format=webp&quality=lossless&width=1470&height=968)
+
+> ![Meniu Principal](https://media.discordapp.net/attachments/1478467459831959563/1482119952734490875/image.png?ex=69b5cb45&is=69b479c5&hm=96d43f5da919a341714fbe330b085bfd46d38f397dcb1c2d0ef0335d4be6bdc7&=&format=webp&quality=lossless&width=797&height=633)
+
+> ![Meniu Principal](https://media.discordapp.net/attachments/1478467459831959563/1482120261489659995/image.png?ex=69b5cb8e&is=69b47a0e&hm=c9fd8da02a6059f26045e7d2507c3a2b575c47251757f3cd88cbe3fa31fac945&=&format=webp&quality=lossless&width=1716&height=1079)
+
+
 *Model*
 
 
