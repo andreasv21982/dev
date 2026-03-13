@@ -16,7 +16,17 @@ Creez meniuri moderne care nu doar arată bine, dar sunt și complet funcțional
 > ![Meniu Principal](https://media.discordapp.net/attachments/1478467459831959563/1480648832164565024/image.png?ex=69b0712e&is=69af1fae&hm=184f836b2d46bd690eeaf0a6e00923bdf43fc393e23449c8eeebc2822d927880&=&format=webp&quality=lossless&width=431&height=525)
 
 > ![Meniu Principal](https://media.discordapp.net/attachments/1478467459831959563/1480649025064800360/image.png?ex=69b0715c&is=69af1fdc&hm=862545f5fb0297c82291a10a0dd009bc93ddab4f1237173c888b72e8ab116c3d&=&format=webp&quality=lossless&width=864&height=1061)
- 
+
+> ![Meniu Principal](https://media.discordapp.net/attachments/1208560272524976138/1481968509423714385/image.png?ex=69b53e3a&is=69b3ecba&hm=2c7fdbf6f5d5cb53583af244cda9a8c92aa059b35b12065ea4ebf12020835aec&=&format=webp&quality=lossless&width=2333&height=870)
+
+> ![Meniu Principal](https://media.discordapp.net/attachments/1208560272524976138/1481968508823670824/image.png?ex=69b53e3a&is=69b3ecba&hm=733362b430c39dec6d882f672c313bd2827b5eda0293893334750f84bada1ed6&=&format=webp&quality=lossless&width=1325&height=923)
+
+> ![Meniu Principal](https://media.discordapp.net/attachments/1208560272524976138/1481968508333195366/image.png?ex=69b53e3a&is=69b3ecba&hm=c21489c6f2c9b68adddbe781681093a10e67e705dfac412aa7b94fe98a80a82b&=&format=webp&quality=lossless&width=911&height=447)
+
+> ![Meniu Principal](https://media.discordapp.net/attachments/1467512238322749645/1481970429756313652/image.png?ex=69b54004&is=69b3ee84&hm=29f0153e49d76edd5be41dd321b87d867c1998c2ec6825ddac0ed41c2a6e939b&=&format=webp&quality=lossless&width=1470&height=968)
+*Model*
+
+
 > Link catre un sistem de ID-uri facut cu ADONIS: https://www.youtube.com/watch?v=Cse27MNLMxQ 
 
 > *Exemplu de meniu principal cu sistem de tab-uri și fundal animat.*
