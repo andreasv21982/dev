@@ -29,6 +29,7 @@ Creez meniuri moderne care nu doar arată bine, dar sunt și complet funcțional
 
 > ![Meniu Principal](https://media.discordapp.net/attachments/1478467459831959563/1482120261489659995/image.png?ex=69b5cb8e&is=69b47a0e&hm=c9fd8da02a6059f26045e7d2507c3a2b575c47251757f3cd88cbe3fa31fac945&=&format=webp&quality=lossless&width=1716&height=1079)
 
+> ![Meniu Principal](https://media.discordapp.net/attachments/1457352952946888869/1483162148526886953/image.png?ex=69b995e4&is=69b84464&hm=45d4641c47a2c89c3f144d4dabfeafb0c75dcb2f1e46903efe011bcedb27e13e&=&format=webp&quality=lossless&width=1269&height=1010)
 
 *Model*
 
